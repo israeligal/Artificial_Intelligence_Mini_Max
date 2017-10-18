@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Arifical_Intellgence_Mini_Max",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
